@@ -59,7 +59,7 @@ ul {
 header {
     min-height: 100vh;
     padding: 2em 2em 0 2em;
-    background: url(/images/slide1.jpg) no-repeat center;
+    background: url(/iRealstate/images/slide1.jpg) no-repeat center;
     background-size: cover;
     position:  relative;
     color: var(--primary);
