@@ -42,7 +42,7 @@ const counts = [
 
 function slider(i) {
         // header.style.background = 'url(${images[i]}) no-repeat center';
-        header.style.backgroundImage = "url(/images/slide" + (i + 1) +  ".jpg)";
+        header.style.backgroundImage = "url(/iRealstate/images/slide" + (i + 1) +  ".jpg)";
 
 
         for (let j = 0; j < pag.length; j++)
